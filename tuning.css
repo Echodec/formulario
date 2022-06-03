@@ -1,0 +1,90 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #121212;
+}
+
+.form-tuning {
+    width: 400px;
+    background: #343435;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    font-family: 'calibri';
+    color: white;
+}
+
+.form-tuning h4 {
+    font-size: 22px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.chck {
+    vertical-align: center;
+}
+
+.mid {
+    margin: 10px auto;
+    display: block;
+}
+
+label {
+    display: block;
+    padding-left: 10px;
+    color: #b7c1a7;
+    line-height: 20px;
+    margin-bottom: 16px;
+}
+
+.controls {
+    width: 50%;
+    background: #343435;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 16px;
+    border: 1px solid #686868;
+    font-family: 'calibri';
+    font-size: 18px;
+}
+
+.controlsV {
+    width: 100%;
+    background: #343435;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 16px;
+    border: 1px solid #686868;
+    font-family: 'calibri';
+    font-size: 18px;
+}
+
+.form-tuning p {
+    height: 40px;
+    color: #b7c1a7;
+    text-align: center;
+    font-size: 18px;
+}
+
+.form-tuning a {
+    color: white;
+}
+
+.form-tuning a:hover {
+    color: white;
+}
+
+.form-tuning .button {
+    width: 100%;
+    background: #104a82;
+    border: none;
+    padding: 12px;
+    color: #7a848d;
+    margin: 16px 0;
+    font-size: 14px;
+}
